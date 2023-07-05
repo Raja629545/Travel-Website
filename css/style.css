@@ -261,3 +261,15 @@ h1,h2,h3{
     clear: both;
 }
 
+/* ################# FOOTER STYLING ################## */
+
+.footer{
+    background: #263238;
+    color: #f4f4f4;
+    text-align: center;
+    padding: 2rem;
+}
+
+.social-media i{
+    margin: 2rem;
+}
